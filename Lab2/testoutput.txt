@@ -1,0 +1,5 @@
+debugging: 3
+process: 4 6
+programming: 5
+putting: 6
+removing: 4
