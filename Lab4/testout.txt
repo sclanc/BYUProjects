@@ -1,6 +1,0 @@
-insert 0 bob
-remove 0 bob
-print
-insert 0 jim
-clear
-print
